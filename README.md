@@ -1,4 +1,4 @@
-#Insurance Charges Predictor
+# Insurance Charges Predictor
 
 A machine learning web app that predicts medical insurance costs based on user demographics and health factors.
 
